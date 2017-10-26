@@ -1,6 +1,6 @@
 FROM php:7.1-alpine
 
-ARG NODE_VERSION=8.7.0
+ARG NODE_VERSION=8.8.0
 
 LABEL description="Base image for with PHP 7.1, Node.JS, on Alpine Linux" \
     version="1.0" \
